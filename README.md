@@ -1,6 +1,6 @@
 # Industrial Control Systems (ICS) Honeypot Research Collection
 
-This repository documents and organizes an extensive literature review on **Industrial Control Systems (ICS) honeypots**, carried out as part of my **HiWi (Student Research Assistant) work at :contentReference[oaicite:0]{index=0} (BTU)**.  
+This repository documents and organizes an extensive literature review on **Industrial Control Systems (ICS) honeypots**, carried out as part of my **HiWi (Student Research Assistant) work at BTU.  
 It reflects a sustained and in-depth study of academic and applied research on ICS deception technologies, with a strong focus on realism, attacker interaction, and data generation for security research.
 
 ---
