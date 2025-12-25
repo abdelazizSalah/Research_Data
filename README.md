@@ -74,13 +74,16 @@ The papers in this repository include (but are not limited to) the following inf
   Early low-interaction honeypot concepts adapted to industrial protocols, mainly useful for exposure measurement and reconnaissance detection.
 
 - **HoneyPLC**  
-  PLC-focused honeypots emulating control logic and register behavior, bridging the gap between protocol emulation and process awareness.
+  PLC-focused honeypots emulating register behavior and control logic, bridging protocol emulation and process awareness.
 
 - **ICSPot**  
-  A protocol-level industrial honeypot widely used for Internet-scale attack measurement against ICS services.
+  A protocol-level ICS honeypot designed to emulate multiple industrial services (e.g., Modbus, S7), widely used for large-scale Internet attack measurement and threat intelligence collection.
+
+- **ICSNet**  
+  Network-oriented ICS honeypot approaches focusing on realistic industrial traffic patterns and protocol interactions, primarily aimed at monitoring, data collection, and attack surface analysis at the network level.
 
 - **LLMPot (ongoing work)**  
-  A novel research direction exploring **LLM-driven adaptive ICS honeypots**, aiming to model attacker interaction sequences, generate realistic protocol dialogues, and move beyond static rule-based emulation.
+  A novel research direction exploring **LLM-driven adaptive ICS honeypots**, aiming to model attacker interaction sequences, generate realistic protocol dialogues, and move beyond static, rule-based emulation.
 
 ---
 
